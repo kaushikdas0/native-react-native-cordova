@@ -2,11 +2,16 @@ The favourite question of 2017 for the developer world i guess :)
 
 I have been asked this at least once on every project i have worked on and so for the last time, i will create this and forward this url who ever asks, ha ha.. Feel free to add your view in comments. Cheers!
 
-** I will take a use case here since based on the app you build your need will be different. If you want to build spotify this is not your matrix ;0  **
+### I will take a use case here since based on the app you build your need will be different. If you want to build spotify this is not your matrix ;0  
+
+***
 
 ---
-** Use Case: **
+
+#### Use Case:
+
 Building a service or utility app, cross platform with support for low end devices, targeted for country like India and Indonesia. User experience is important for the app as well as cost of building and maintaining. Client probably don't have a development team and reached out to you for a solution.
+
 ---
 
 | Type/Framework 	| Native 	| React Native 	| HTML5 Hybrid (Cordova/Phone Gap) 	| Comments, considering utility app 	| Points, considering utility app 	|
