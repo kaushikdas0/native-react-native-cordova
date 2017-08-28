@@ -1,3 +1,5 @@
+## How to choose between Native vs React Native vs HTML5 Hybrid
+
 The favourite question of 2017 for the developer world i guess :)
 
 I have been asked this at least once on every project i have worked on and so for the last time, i will create this and forward this url who ever asks, ha ha.. Feel free to add your view in comments. Cheers!
