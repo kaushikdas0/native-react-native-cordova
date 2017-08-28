@@ -4,11 +4,12 @@ I have been asked this at least once on every project i have worked on and so fo
 
 ## I will take a use case here since based on the app you build your need will be different. If you want to build spotify this is not your matrix ;0
 
-## Use Case: 
+---
+# Use Case: #
 Building a service or utility app, cross platform with support for low end devices, targeted for country like India and Indonesia. User experience is important for the app as well as cost of building and maintaining. Client probably don't have a development team and reached out to you for a solution.
+---
 
-
-| ﻿Type/Framework 	| Native 	| React Native 	| HTML5 Hybrid (Cordova/Phone Gap) 	| Comments, considering utility app 	| Points, considering utility app 	|
+| Type/Framework 	| Native 	| React Native 	| HTML5 Hybrid (Cordova/Phone Gap) 	| Comments, considering utility app 	| Points, considering utility app 	|
 |:----------------------------------:	|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|:-------------------------------:	|
 | API Access 	| Access to all native API like 3D touch, Dual Camera, Android Password Manager etc. 	| Access to limited APIs. React has access to API which are common across platforms. But extended API access is also possible through custom build. 	| Only limited to HTML5 API 	| For the current project we believe we wont need platform specific API and hence React Native or HTML5 Hybrid both could work 	| Native: 0 RN: 2 Hybrid: 2 	|
 | 3rd Party compatibility 	| Easily compatible with third party libraries or SDK 	| React Native support will be needed as part of SDK to be able to integrate. Native SDK can also be integrated with additional custom build 	| Only SDK made for Cordova will be compatible. These SDKs are mostly HTML5 based SDK. Complex SDK like image processing, GPU intensive plugins will not be available for Cordova 	| Since the project doesn't needs any third part SDK both React Native and HTML5 hybrid could be good options. 	| Native: 0 RN: 2 Hybrid: 2 	|
