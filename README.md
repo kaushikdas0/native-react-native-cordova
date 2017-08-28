@@ -1,4 +1,5 @@
-## How to choose between Native vs React Native vs HTML5 Hybrid?
+## How to choose between Native vs React Native vs HTML5 Hybrid? 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The favourite question of 2017 for the developer world i guess :)
 
