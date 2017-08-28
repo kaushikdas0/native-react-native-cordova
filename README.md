@@ -24,10 +24,11 @@ Building a service or utility app, cross platform with support for low end devic
 | Terms and Conditions and Licensing 	| Frameworks for Native coding been maintained by their respective brands, example Swift for IOS is from Apple and Kotlin by Google, making sure when a new OS is launched the latest and greatest feature are available as API for the developers. 	| React Native is maintained my Facebook, even though its open source its recommended to review the terms and conditions to make sure client interest doesn't conflicts with Facebook business.  Also Facebook does a monthly release of React Native, even though they will not always support the latest greatest feature they tend to listen to feedback from community and release features every month. 	| For Hybrid app, couple of options available.  PhoneGap is maintained by Adobe, Cordova is open source and maintained my Apache Ionic and other similar frameworks, uses Cordova but provides a SAAS way of deploying the product.    Any new HTML5 features will be supported if the OS supports those as part of their browser support. 	| Unless there is any reason of conflict with Facebook T&C React Native is our framework of choice, else we would suggest Hybrid or Native. 	| Native: 2 RN: 1 Hybrid: 2 	|
 
 
+***
 
 The funny part ( * totally unintended and coincidental * ) if you sum up the points you will find that RN and HTML5 hybrid app scores the same, but then i would suggest choosing RN in that case because your overall app will be a better performing app when compared to the Hybrid app.
 
-
+***
 
 You can use the same matrix for any other use case. Just revalidate the points to support your use case. Until next time. Cheers!
 
