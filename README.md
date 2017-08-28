@@ -11,7 +11,7 @@ I have been asked this at least once on every project i have worked on and so fo
 
 #### Use Case:
 
-Building a service or utility app, cross platform with support for low end devices, targeted for country like India and Indonesia. User experience is important for the app as well as cost of building and maintaining. Client probably don't have a development team and reached out to you for a solution.
+*Building a service or utility app, cross platform with support for low end devices, targeted for country like India and Indonesia. User experience is important for the app as well as cost of building and maintaining. Client probably don't have a development team and reached out to you for a solution.*
 
 ---
 
