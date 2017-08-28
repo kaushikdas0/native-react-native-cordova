@@ -26,7 +26,7 @@ Building a service or utility app, cross platform with support for low end devic
 
 ***
 
-The funny part ( * totally unintended and coincidental * ) if you sum up the points you will find that RN and HTML5 hybrid app scores the same, but then i would suggest choosing RN in that case because your overall app will be a better performing app when compared to the Hybrid app.
+The funny part ( *totally unintended and coincidental* ) if you sum up the points you will find that RN and HTML5 hybrid app scores the same, but then i would suggest choosing RN in that case because your overall app will be a better performing app when compared to the Hybrid app.
 
 ***
 
