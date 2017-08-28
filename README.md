@@ -4,7 +4,6 @@ I have been asked this at least once on every project i have worked on and so fo
 
 ### I will take a use case here since based on the app you build your need will be different. If you want to build spotify this is not your matrix ;0  
 
-***
 
 ---
 
